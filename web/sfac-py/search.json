@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "resn",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\nsome alt text"
+  },
+  {
+    "objectID": "howto.html#howto.qmd-1",
+    "href": "howto.html#howto.qmd-1",
+    "title": "sfac-py",
+    "section": "howto.qmd",
+    "text": "howto.qmd"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "about",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#another-head",
+    "href": "about.html#another-head",
+    "title": "about",
+    "section": "another head",
+    "text": "another head\nsome more text"
+  },
+  {
+    "objectID": "reference.html#reference.qmd-1",
+    "href": "reference.html#reference.qmd-1",
+    "title": "sfac-py",
+    "section": "reference.qmd",
+    "text": "reference.qmd"
+  },
+  {
+    "objectID": "fundamentals.html#fundamentals.qmd-1",
+    "href": "fundamentals.html#fundamentals.qmd-1",
+    "title": "sfac-py",
+    "section": "fundamentals.qmd",
+    "text": "fundamentals.qmd"
+  },
+  {
+    "objectID": "tutorials.html#headline-2",
+    "href": "tutorials.html#headline-2",
+    "title": "sfac-py",
+    "section": "headline 2",
+    "text": "headline 2"
+  }
+]
