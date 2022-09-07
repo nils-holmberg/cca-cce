@@ -4,6 +4,7 @@
 
 # folder content
 log/*
+qmd/*
 src/*
 tmp/*
 
