@@ -46,7 +46,7 @@
     "href": "schedule.html#headline-2",
     "title": "sfac-py",
     "section": "headline 2",
-    "text": "headline 2"
+    "text": "headline 2\n\n\n?(caption)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCourse date\n\n\n\n\n\n\n\n\n\n\n\n\nCourse topic\n\n\n\n\n\n\n\n\n\n\n\n\nPython packages\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2022-10-17\n\n\n\n\n\n\n\n\n\n\n\n\nthe anaconda3 environment, basic python syntax, process table data\n\n\n\n\n\n\n\n\n\n\n\n\nnumpy, scipy, pandas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2022-10-18\n\n\n\n\n\n\n\n\n\n\n\n\ntext analysis, manifest content, data cleaning, tokenization\n\n\n\n\n\n\n\n\n\n\n\n\nnltk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2022-10-19\n\n\n\n\n\n\n\n\n\n\n\n\ntext analysis, latent content features, sentiment analysis, topic modelling\n\n\n\n\n\n\n\n\n\n\n\n\nspacy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2022-10-20\n\n\n\n\n\n\n\n\n\n\n\n\nimage analysis, latent content features, object recognition, captioning\n\n\n\n\n\n\n\n\n\n\n\n\nopencv, pytorch\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n2022-10-21\n\n\n\n\n\n\n\n\n\n\n\n\nreproducible data analysis, data visualization, sharing and collaborating\n\n\n\n\n\n\n\n\n\n\n\n\nmatplotlib"
   },
   {
     "objectID": "topics-2.html#headline-2",
