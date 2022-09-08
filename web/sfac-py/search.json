@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Introduction to Python",
     "section": "",
-    "text": "python logo\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Figure 1: Official logo of the Python programming language\n\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "about.html",
@@ -28,11 +28,18 @@
     "text": "headline 2"
   },
   {
-    "objectID": "instructions.html#headline-2",
-    "href": "instructions.html#headline-2",
+    "objectID": "instructions.html",
+    "href": "instructions.html",
     "title": "sfac-py",
-    "section": "headline 2",
-    "text": "headline 2"
+    "section": "",
+    "text": "Python is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python."
+  },
+  {
+    "objectID": "instructions.html#teacher",
+    "href": "instructions.html#teacher",
+    "title": "sfac-py",
+    "section": "teacher",
+    "text": "teacher\n\n\n\nFigure 1: teacher"
   },
   {
     "objectID": "schedule.html#headline-2",
