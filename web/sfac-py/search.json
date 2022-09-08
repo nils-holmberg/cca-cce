@@ -70,10 +70,10 @@
     "text": "headline 2"
   },
   {
-    "objectID": "topics.html#headline-2",
-    "href": "topics.html#headline-2",
+    "objectID": "topics.html",
+    "href": "topics.html",
     "title": "sfac-py",
-    "section": "headline 2",
-    "text": "headline 2"
+    "section": "",
+    "text": "Python is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out for more info.\n\n\nPython is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out (Embarak et al., 2018) for more info."
   }
 ]
