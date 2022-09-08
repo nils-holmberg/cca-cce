@@ -9,7 +9,7 @@
   {
     "objectID": "resources.html#headline-2",
     "href": "resources.html#headline-2",
-    "title": "sfac-py",
+    "title": "resources",
     "section": "headline 2",
     "text": "headline 2"
   },
@@ -30,56 +30,56 @@
   {
     "objectID": "topics-1.html#headline-2",
     "href": "topics-1.html#headline-2",
-    "title": "sfac-py",
+    "title": "cca-nlp",
     "section": "headline 2",
     "text": "headline 2"
   },
   {
     "objectID": "instructions.html",
     "href": "instructions.html",
-    "title": "sfac-py",
+    "title": "instructions",
     "section": "",
     "text": "Python is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python."
   },
   {
     "objectID": "instructions.html#teacher",
     "href": "instructions.html#teacher",
-    "title": "sfac-py",
+    "title": "instructions",
     "section": "teacher",
     "text": "teacher\n\n\n\nFigure 1: teacher"
   },
   {
     "objectID": "schedule.html",
     "href": "schedule.html",
-    "title": "sfac-py",
+    "title": "schedule",
     "section": "",
     "text": "Python is a programming language that has gained popularity in all types of data science."
   },
   {
     "objectID": "schedule.html#headline-2",
     "href": "schedule.html#headline-2",
-    "title": "sfac-py",
+    "title": "schedule",
     "section": "headline 2",
     "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\ntext analysis, manifest content, data cleaning, tokenization\nnltk\n\n\n2022-10-19\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-20\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch\n\n\n2022-10-21\nreproducible data analysis, data visualization, sharing and collaborating\nmatplotlib"
   },
   {
     "objectID": "topics-2.html#headline-2",
     "href": "topics-2.html#headline-2",
-    "title": "sfac-py",
+    "title": "cca-cv",
     "section": "headline 2",
     "text": "headline 2"
   },
   {
     "objectID": "topics.html",
     "href": "topics.html",
-    "title": "sfac-py",
+    "title": "topics",
     "section": "",
     "text": "Python is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out for more info.\n\n\nPython is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out (Embarak et al., 2018) for more info.\n\n\n\nPython is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out (Embarak et al., 2018) for more info."
   },
   {
     "objectID": "topics.html#headline-2",
     "href": "topics.html#headline-2",
-    "title": "sfac-py",
+    "title": "topics",
     "section": "headline 2",
     "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out (Embarak et al., 2018) for more info."
   }
