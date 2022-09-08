@@ -2,16 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Introduction to python",
+    "title": "Introduction to Python",
     "section": "",
     "text": "python logo\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "howto.html#howto.qmd-1",
-    "href": "howto.html#howto.qmd-1",
-    "title": "sfac-py",
-    "section": "howto.qmd",
-    "text": "howto.qmd"
   },
   {
     "objectID": "about.html",
@@ -28,22 +21,29 @@
     "text": "another head\nsome more text"
   },
   {
-    "objectID": "reference.html#reference.qmd-1",
-    "href": "reference.html#reference.qmd-1",
-    "title": "sfac-py",
-    "section": "reference.qmd",
-    "text": "reference.qmd"
-  },
-  {
-    "objectID": "fundamentals.html#fundamentals.qmd-1",
-    "href": "fundamentals.html#fundamentals.qmd-1",
+    "objectID": "instructions.html#fundamentals.qmd-1",
+    "href": "instructions.html#fundamentals.qmd-1",
     "title": "sfac-py",
     "section": "fundamentals.qmd",
     "text": "fundamentals.qmd"
   },
   {
-    "objectID": "tutorials.html#headline-2",
-    "href": "tutorials.html#headline-2",
+    "objectID": "schedule.html#howto.qmd-1",
+    "href": "schedule.html#howto.qmd-1",
+    "title": "sfac-py",
+    "section": "howto.qmd",
+    "text": "howto.qmd"
+  },
+  {
+    "objectID": "readings.html#reference.qmd-1",
+    "href": "readings.html#reference.qmd-1",
+    "title": "sfac-py",
+    "section": "reference.qmd",
+    "text": "reference.qmd"
+  },
+  {
+    "objectID": "topics.html#headline-2",
+    "href": "topics.html#headline-2",
     "title": "sfac-py",
     "section": "headline 2",
     "text": "headline 2"
