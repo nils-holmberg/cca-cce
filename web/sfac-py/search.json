@@ -14,6 +14,13 @@
     "text": "headline 2"
   },
   {
+    "objectID": "inst-221018.html",
+    "href": "inst-221018.html",
+    "title": "inst-221018",
+    "section": "",
+    "text": "# get altair graphics\nimport altair as alt\n# get data object from vega_datasets\nfrom vega_datasets import data\n\n\n# Selecting the data\ndf = data.iris()\n  \n# Making the Scatter Plot\nalt.Chart(df).mark_point().encode(\n    # Map the sepalLength to x-axis\n    x='sepalLength',\n    # Map the petalLength to y-axis\n    y='petalLength',\n    # Map the species to shape\n    shape='species',\n    #\n    color='species'\n)"
+  },
+  {
     "objectID": "inst-221017.html",
     "href": "inst-221017.html",
     "title": "inst-221017",
@@ -67,7 +74,7 @@
     "href": "schedule.html#headline-2",
     "title": "schedule",
     "section": "headline 2",
-    "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-19\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-20\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch\n\n\n2022-10-21\nreproducible data analysis, data visualization, sharing and collaborating\nmatplotlib"
+    "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-19\nreproducible data analysis, data visualization, sharing and collaborating\nseaborn, altair\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch"
   },
   {
     "objectID": "jnb-221017.html",
