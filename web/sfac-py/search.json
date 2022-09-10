@@ -158,7 +158,7 @@
     "href": "schedule.html#headline-2",
     "title": "schedule",
     "section": "headline 2",
-    "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-19\nreproducible data analysis, data visualization, sharing and collaborating\nseaborn, altair\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch"
+    "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\nreproducible data analysis, data visualization, sharing and collaborating\nseaborn, altair\n\n\n2022-10-19\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch"
   },
   {
     "objectID": "jnb-221017.html",
