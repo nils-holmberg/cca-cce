@@ -147,18 +147,18 @@
     "text": "teacher\n\n\n\nFigure 1: teacher"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
+    "objectID": "schedule.html#headline-1",
+    "href": "schedule.html#headline-1",
     "title": "schedule",
-    "section": "",
-    "text": "Python is a programming language that has gained popularity in all types of data science.\n\n\n\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n09-10\n1.1.1\nanaconda3\nunderstand install location, create and update virtual environments\n\n\nnan\n1.1.2\njupyter\ndownload course material, open notebooks, edit in web browser\n\n\nnan\n1.1.3\ntesting\nexecute the hello world example in jupyter python env\n\n\nnan\nbreak\nnan\nnan\n\n\n10-11\n1.2.1\npython syntax\npractice data structures, conditional statements, flow control\n\n\nnan\n1.2.2\nfunctions\nunderstand modules\n\n\nnan\n1.2.3\nfiles, directories\nnavigate the file system, read, write data files\n\n\nnan\nbreak\nnan\nnan\n\n\n11-12\n1.3.1\ntabular data\nunderstand how to read, write, and process survey data\n\n\nnan\n1.3.2\nsubset, substitute\nand reshape\n\n\nnan\n1.3.3\nsummarize\naggregate, combine, join operations\n\n\n12-13\nlunch\nanaconda, continued\ntry to resolve anaconda, psychopy installation problems"
+    "section": "headline 1",
+    "text": "headline 1\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\nreproducible data analysis, data visualization, sharing and collaborating\nseaborn, altair\n\n\n2022-10-19\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch"
   },
   {
     "objectID": "schedule.html#headline-2",
     "href": "schedule.html#headline-2",
     "title": "schedule",
     "section": "headline 2",
-    "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 2: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\nreproducible data analysis, data visualization, sharing and collaborating\nseaborn, altair\n\n\n2022-10-19\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch"
+    "text": "headline 2\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 2: Some nice table caption.\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n09-10\n1.1.1\nanaconda3\nunderstand install location, create and update virtual environments\n\n\n\n1.1.2\njupyter\ndownload course material, open notebooks, edit in web browser\n\n\n\n1.1.3\ntesting\nexecute the hello world example in jupyter python env\n\n\n\nbreak\n\n\n\n\n10-11\n1.2.1\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n1.2.2\nfunctions\nunderstand modules\n\n\n\n1.2.3\nfiles, directories\nnavigate the file system, read, write data files\n\n\n\nbreak\n\n\n\n\n11-12\n1.3.1\ntabular data\nunderstand how to read, write, and process survey data\n\n\n\n1.3.2\nsubset, substitute\nand reshape\n\n\n\n1.3.3\nsummarize\naggregate, combine, join operations\n\n\n12-13\nlunch\nanaconda, continued\ntry to resolve anaconda, psychopy installation problems"
   },
   {
     "objectID": "jnb-221017.html",
