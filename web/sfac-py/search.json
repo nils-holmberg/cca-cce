@@ -165,7 +165,7 @@
     "href": "schedule.html#course-overview",
     "title": "schedule",
     "section": "course overview",
-    "text": "course overview\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\nnumpy, scipy, pandas\n\n\n2022-10-18\nreproducible data analysis, data visualization, sharing and collaborating\nseaborn, altair\n\n\n2022-10-19\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nspacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch"
+    "text": "course overview\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 1: Some nice table caption.\n\n\n\n\n\n\n\nCourse date\nCourse topic\nPython packages\n\n\n\n\n2022-10-17\nthe anaconda3 environment, basic python syntax, process table data\njupyter, scipy, pandas\n\n\n2022-10-18\ndata visualization, reproducible data analysis, sharing and collaborating\nseaborn, altair, plotly\n\n\n2022-10-19\ntext analysis, manifest content, data cleaning, tokenization, copora\nnltk, pandas, plotly\n\n\n2022-10-20\ntext analysis, latent content features, sentiment analysis, topic modelling\nscikit-learn, spacy\n\n\n2022-10-21\nimage analysis, latent content features, object recognition, captioning\nopencv, pytorch, tf"
   },
   {
     "objectID": "schedule.html#day-1-221017",
