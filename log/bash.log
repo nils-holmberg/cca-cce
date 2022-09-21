@@ -1,0 +1,78 @@
+### anaconda work (220920)
+# nlp env
+conda update anaconda
+conda activate conda-nlp
+conda update --all
+# nltk.. 
+conda install -c anaconda nltk
+# beware, ~500 Mb
+conda install -c conda-forge nltk_data
+# alternative methods, only tested on google colab..
+#pip install --user -U nltk
+#import nltk; nltk.download()
+nltk.download('popular')
+# install spacy nlp package
+conda install -c conda-forge -n base spacy
+# get trained pipline, language model, small and large
+python -m spacy download en_core_web_sm
+python -m spacy download en_core_web_lg
+
+
+### anaconda work (220909)
+# incrementally continue with packages in base env (e.g. pandas, jupyter-lab)
+conda create --name sfac-py --clone base
+# install dedicated packages to new env
+conda install -c conda-forge altair vega_datasets
+
+
+### sfac-py work (220907)
+# render syllabus
+quarto render qmd/doc/sfac-py/syllabus.qmd
+# render website at https://nils-holmberg.github.io/cca-cce/web/sfac-py/
+quarto render qmd/web/sfac-py/
+rm -r web/sfac-py && cp -r qmd/web/sfac-py/_site/ web/sfac-py
+website_compile sfac-py
+# render slides
+# render ipynb code
+quarto convert qmd/web/sfac-py/inst-221017.qmd --output qmd/web/sfac-py/jnb-221017.ipynb
+
+
+### migrate google slides (220829)
+# download slides as text file
+head -n20 tmp/lecture-220830-intro.txt | tr '\n' '|' | tr '[[:space:]]' ' ' | tr '|' '\n' | tr '[[:upper:]]' '[[:lower:]]' | tr -s ' ' | sed -E -e 's/^([a-z])/- \1/g' > tmp/some
+# download slides as pdf file
+convert -density 150 lecture-220504-info.pdf slide-%03d.png
+mogrify -crop 950x844+550+0 +repage slide-*.png
+
+
+### init project (220816)
+# dirs and git
+bash ~/dev/bash/src/project-get.sh dev/cca-cce
+cd dev/cca-cce/
+bash ~/dev/bash/src/github-init.sh "computational content analysis, cognitive communication effects"
+bash ~/dev/bash/src/github-push.sh "computational content analysis, cognitive communication effects"
+# quarto website
+quarto create-project web --type website
+quarto preview web
+quarto render web
+bash ~/dev/bash/src/github-push.sh "computational content analysis, cognitive communication effects"
+> web/_site/.nojekyll
+# quarto book
+quarto create-project src/qmd --type book
+quarto preview src/qmd/
+quarto render src/qmd/ --to all
+# quarto slides
+quarto render edu/scom-komb26/index.qmd
+# quarto document
+
+# quarto themes
+for t in default cerulean cosmo cyborg darkly flatly journal litera lumen lux materia minty morph pulse quartz sandstone simplex sketchy slate solar spacelab superhero united vapor yeti zephyr; do echo $t; done
+
+
+
+
+
+
+
+
+
