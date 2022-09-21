@@ -23,6 +23,32 @@ python -m spacy download en_core_web_lg
 conda create --name sfac-py --clone base
 # install dedicated packages to new env
 conda install -c conda-forge altair vega_datasets
+# powershell, anaconda (220911)
+(base) PS C:\Users\nilsh\rnd\cca-cce> Get-History
+
+  Id CommandLine
+  -- -----------
+   1 python.exe -c "import sys; print(sys.executable);"
+   2 python.exe -c "import pandas as pd"
+   3 conda env list
+   7 mkdir envp
+   8 cd .\rnd\cca-cce\
+   9 conda create --prefix=C:\Users\nilsh\envp\sfac-py --clone base
+  10 conda env list
+  11 conda update anaconda
+  12 conda update --all
+  13 conda env list
+  14 conda activate sfac-py
+  15 conda info --envs
+  16 conda activate C:\Users\nilsh\envp\sfac-py
+  17 conda install -c conda-forge altair
+  18 conda install -c conda-forge vega_datasets
+  25 quarto.cmd render help
+  26 quarto.cmd render .\qmd\web\sfac-py\
+  27 conda deactivate
+  28 conda deactivate
+  29 conda activate
+  30 conda env list
 
 
 ### sfac-py work (220907)
