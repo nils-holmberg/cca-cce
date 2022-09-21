@@ -1,4 +1,6 @@
 ### anaconda work (220920)
+#
+source ~/lib/python/anaconda3/bin/activate
 # nlp env
 conda update anaconda
 conda activate conda-nlp
