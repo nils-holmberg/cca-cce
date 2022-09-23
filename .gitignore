@@ -4,7 +4,7 @@
 
 # folder content
 log/*
-log/bash.log
+!log/bash.log
 qmd/*
 src/*
 tmp/*
