@@ -70,11 +70,11 @@
     "text": "Using pandas package to process table data."
   },
   {
-    "objectID": "topics-1-tab-vis.html#data-visualization",
-    "href": "topics-1-tab-vis.html#data-visualization",
+    "objectID": "topics-1-tab-vis.html#data-visualizations",
+    "href": "topics-1-tab-vis.html#data-visualizations",
     "title": "data analysis and visualizations",
-    "section": "data visualization",
-    "text": "data visualization\nUsing packages to visualize data."
+    "section": "data visualizations",
+    "text": "data visualizations\nUsing packages to visualize data."
   },
   {
     "objectID": "topics-2-cca-nlp.html#headline-2",
@@ -126,25 +126,18 @@
     "text": "some headline"
   },
   {
-    "objectID": "instructions.html",
-    "href": "instructions.html",
-    "title": "workshop instructions",
-    "section": "",
-    "text": "While we don’t think any previous programming experience should be required on this course, we do think that participants will benefit from some prior knowledge of quantitative methods and data analysis, e.g. using Microsoft Excel. To follow the course, you will need a personal or work laptop computer with internet access, on which you have administrative privileges to install some software, primarily Anaconda3."
-  },
-  {
     "objectID": "instructions.html#jupyter-notebooks",
     "href": "instructions.html#jupyter-notebooks",
     "title": "workshop instructions",
     "section": "jupyter notebooks",
-    "text": "jupyter notebooks\nImportantly, course participants are encouraged to install a Python environment beforehand. The environment used on this course will be Anaconda3 and it consists of several modules, including support for interacting with Jupyter notebooks, which will be the main format of instruction on the course1. If you plan to use an LU laptop, please check with IT support how to install Anaconda3 via Software Center!"
+    "text": "jupyter notebooks"
   },
   {
-    "objectID": "instructions.html#instructor",
-    "href": "instructions.html#instructor",
+    "objectID": "instructions.html#workshop-instructor",
+    "href": "instructions.html#workshop-instructor",
     "title": "workshop instructions",
-    "section": "instructor",
-    "text": "instructor\n\n\n\nFigure 1: teacher"
+    "section": "workshop instructor",
+    "text": "workshop instructor\n\n\n\nFigure 1: workshop instructor"
   },
   {
     "objectID": "schedule.html#course-overview",
@@ -368,7 +361,7 @@
     "href": "topics.html",
     "title": "workshop topics",
     "section": "",
-    "text": "Somenatural language processing (nlp)."
+    "text": "Some data analysis and more data analysis."
   },
   {
     "objectID": "topics.html#computational-content-analysis",
