@@ -65,9 +65,16 @@
   {
     "objectID": "topics-1-tab-vis.html",
     "href": "topics-1-tab-vis.html",
-    "title": "table data and visualizations",
+    "title": "data analysis and visualizations",
     "section": "",
-    "text": "matplotlib"
+    "text": "Using pandas package to process table data."
+  },
+  {
+    "objectID": "topics-1-tab-vis.html#data-visualization",
+    "href": "topics-1-tab-vis.html#data-visualization",
+    "title": "data analysis and visualizations",
+    "section": "data visualization",
+    "text": "data visualization\nUsing packages to visualize data."
   },
   {
     "objectID": "topics-2-cca-nlp.html#headline-2",
@@ -361,6 +368,13 @@
     "href": "topics.html",
     "title": "workshop topics",
     "section": "",
-    "text": "computational content analysis\nPython is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out (Neuendorf, 2017) for more info.\n\n\nheadline 2\nPython is a programming language that has gained popularity in all types of data science. On this introductory course, we are aiming at getting acquainted with the basic syntax of Python, as well as learning how to extend this basic functionality by calling powerful modules built by members of the large Python user community. Thus, we take a “standing on the shoulders of giants” approach to Python.. check out (Embarak et al., 2018) for more info.\n\n\n\n\n\nReferences\n\nEmbarak, D. O., Embarak, & Karkal. (2018). Data analysis and visualization using python. Springer.\n\n\nNeuendorf, K. A. (2017). The content analysis guidebook. sage."
+    "text": "Somenatural language processing (nlp)."
+  },
+  {
+    "objectID": "topics.html#computational-content-analysis",
+    "href": "topics.html#computational-content-analysis",
+    "title": "workshop topics",
+    "section": "computational content analysis",
+    "text": "computational content analysis\nFirst aspect of CCA is natural language processing (nlp), while the second aspect is computer vision (cv)."
   }
 ]
