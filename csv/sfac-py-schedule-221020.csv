@@ -1,7 +1,7 @@
 "time"	"section"	"concepts"	"outcomes"
 "13-14"	"4.1.1"	"tf-idf analysis"	"data structures, text frequency, inverse document frequecy"
 	"4.1.2"	"python syntax"	"practice data structures, conditional statements, flow control"
-	"4.1.3"	"topic modelling"	"applying unsupervised learning to text data "
+	"4.1.3"	"topic modelling"	"document clusters, applying unsupervised learning to texts"
 	"break"		
 "14-15"	"4.2.1"	"named entities"	"text named entity recognition (ner) using spacy"
 	"4.2.2"	"text similarity"	
