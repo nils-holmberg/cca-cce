@@ -15,6 +15,12 @@ conda install altair
 conda install vega_datasets
 # quarto compile works again ! :) ..but conda update --all reproduce the bug :( 
 website_compile sfac-py
+# some more work.. 
+conda create --name some-test --clone base
+conda env remove -n some-test
+conda create --name some-test
+# packages needed to compile sfac-py website
+conda install jupyter numpy matplotlib pandas altair vega_datasets tabulate
 
 
 ### anaconda work (220922)
