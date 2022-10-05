@@ -1,3 +1,22 @@
+### more conda work (221005)
+# problem with qt.qpa.plugin and matplotlib in sfac-py env
+conda update --all
+# try force reinstall packages
+conda install --force-reinstall pyqt
+conda install --force-reinstall qt
+conda install --force-reinstall matplotlib
+conda install --force-reinstall opencv-python
+# try roll back env revisions
+conda list --revisions
+conda install --revision 1
+conda install --revision 0
+# back to init env.. reinstall deps
+conda install altair
+conda install vega_datasets
+# quarto compile works again ! :) ..but conda update --all reproduce the bug :( 
+website_compile sfac-py
+
+
 ### anaconda work (220922)
 # cv env.. install in jupyter or ipython, not console prompt
 !pip install --upgrade pip
