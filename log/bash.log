@@ -1,3 +1,8 @@
+### qmd work (221009)
+# whats a nice number of cells per ipynb exercise ?
+for i in {1..5}; do for j in {1..3}; do for k in {1..3}; do echo "- [$i$j$k.ipynb](../../res/jnb/$i$j$k.ipynb)"; > res/jnb/$i$j$k.ipynb; done; done; echo some; done
+
+
 ### more conda work (221005)
 # problem with qt.qpa.plugin and matplotlib in sfac-py env
 conda update --all
