@@ -20,6 +20,25 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -149,8 +168,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#data-analysis-and-visualizations" id="toc-data-analysis-and-visualizations" class="nav-link active" data-scroll-target="#data-analysis-and-visualizations">data analysis and visualizations</a></li>
-  <li><a href="#computational-content-analysis" id="toc-computational-content-analysis" class="nav-link" data-scroll-target="#computational-content-analysis">computational content analysis</a></li>
+  <li><a href="#data-analysis-and-visualizations" id="toc-data-analysis-and-visualizations" class="nav-link active" data-scroll-target="#data-analysis-and-visualizations"><span class="toc-section-number">1</span>  data analysis and visualizations</a></li>
+  <li><a href="#computational-content-analysis" id="toc-computational-content-analysis" class="nav-link" data-scroll-target="#computational-content-analysis"><span class="toc-section-number">2</span>  computational content analysis</a></li>
   </ul>
 </nav>
     </div>
@@ -173,18 +192,30 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<section id="data-analysis-and-visualizations" class="level2">
-<h2 class="anchored" data-anchor-id="data-analysis-and-visualizations">data analysis and visualizations</h2>
+<section id="data-analysis-and-visualizations" class="level2" data-number="1">
+<h2 data-number="1" class="anchored" data-anchor-id="data-analysis-and-visualizations"><span class="header-section-number">1</span> data analysis and visualizations</h2>
 <p>Some <a href="topics-1-tab-vis.html#data-analysis">data analysis</a> and more <a href="topics-1-tab-vis.html#data-visualizations">data analysis</a>.</p>
+<div id="fig-penguins" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="../../res/img/lter_penguins.png" width="360" height="214" class="figure-img"></p>
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: palmer penguins</figcaption><p></p>
+</figure>
+</div>
+<p>Reference to this dataset is <span class="citation" data-cites="palmerpenguins">Horst et al. (<a href="#ref-palmerpenguins" role="doc-biblioref">2020</a>)</span>.</p>
 </section>
-<section id="computational-content-analysis" class="level2">
-<h2 class="anchored" data-anchor-id="computational-content-analysis">computational content analysis</h2>
+<section id="computational-content-analysis" class="level2" data-number="2">
+<h2 data-number="2" class="anchored" data-anchor-id="computational-content-analysis"><span class="header-section-number">2</span> computational content analysis</h2>
 <p>First aspect of CCA is <a href="topics-2-cca-nlp.html">natural language processing (nlp)</a>, while the second aspect is <a href="topics-3-cca-cv.html">computer vision (cv)</a>.</p>
 
 
+
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-palmerpenguins" class="csl-entry" role="doc-biblioentry">
+Horst, A. M., Hill, A. P., &amp; Gorman, K. B. (2020). <em>Palmerpenguins: Palmer archipelago (antarctica) penguin data</em>. <a href="https://doi.org/10.5281/zenodo.3960218">https://doi.org/10.5281/zenodo.3960218</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

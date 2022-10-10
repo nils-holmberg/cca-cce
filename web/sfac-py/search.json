@@ -7,6 +7,13 @@
     "text": "Figure 1: Official logo of the Python programming language\n\n\nAnother principle that has guided the design of this course is that participants should gain an understanding of how Python can be used to accomplish fairly common research tasks within the social sciences more effectively and more transparently. Such applications of Python include collecting and analyzing survey data, performing content analyses on textual and visual material, and using charts to visualize results.\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
+    "objectID": "inst-221017-tables.html",
+    "href": "inst-221017-tables.html",
+    "title": "day 1: data tables analysis",
+    "section": "",
+    "text": "Reference to this dataset is Horst et al. (2020)."
+  },
+  {
     "objectID": "inst-221017-tables.html#jupyter-notebooks",
     "href": "inst-221017-tables.html#jupyter-notebooks",
     "title": "day 1: data tables analysis",
@@ -32,14 +39,14 @@
     "href": "inst-221017-tables.html#data-visualization",
     "title": "day 1: data tables analysis",
     "section": "4 data visualization",
-    "text": "4 data visualization\nThis is a sneak preview of day 2 of the workshop. For a demonstration of a line plot on a polar axis, see Figure 1.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\nFigure 1: A line plot on a polar axis"
+    "text": "4 data visualization\nHere is a sneak preview of day 2 of the workshop. For a demonstration of a line plot on a polar axis, see Figure 2.\n\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(\n  subplot_kw = {'projection': 'polar'} \n)\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\n\n\n\nFigure 2: A line plot on a polar axis"
   },
   {
     "objectID": "topics-3-cca-cv.html#headline-2",
     "href": "topics-3-cca-cv.html#headline-2",
     "title": "computer vision (cv)",
-    "section": "headline 2",
-    "text": "headline 2"
+    "section": "2 headline 2",
+    "text": "2 headline 2"
   },
   {
     "objectID": "resources.html",
@@ -73,15 +80,15 @@
     "objectID": "topics-1-tab-vis.html#data-visualizations",
     "href": "topics-1-tab-vis.html#data-visualizations",
     "title": "data analysis and visualizations",
-    "section": "data visualizations",
-    "text": "data visualizations\nUsing packages to visualize data."
+    "section": "2 data visualizations",
+    "text": "2 data visualizations\nUsing packages to visualize data."
   },
   {
     "objectID": "topics-2-cca-nlp.html#headline-2",
     "href": "topics-2-cca-nlp.html#headline-2",
     "title": "natural language processing (nlp)",
-    "section": "headline 2",
-    "text": "headline 2"
+    "section": "2 headline 2",
+    "text": "2 headline 2"
   },
   {
     "objectID": "inst-221020-nlp-tc.html#topic-modelling",
@@ -347,13 +354,13 @@
     "href": "topics.html",
     "title": "workshop topics",
     "section": "",
-    "text": "Some data analysis and more data analysis."
+    "text": "Some data analysis and more data analysis.\n\n\n\nFigure 1: palmer penguins\n\n\nReference to this dataset is Horst et al. (2020)."
   },
   {
     "objectID": "topics.html#computational-content-analysis",
     "href": "topics.html#computational-content-analysis",
     "title": "workshop topics",
-    "section": "computational content analysis",
-    "text": "computational content analysis\nFirst aspect of CCA is natural language processing (nlp), while the second aspect is computer vision (cv)."
+    "section": "2 computational content analysis",
+    "text": "2 computational content analysis\nFirst aspect of CCA is natural language processing (nlp), while the second aspect is computer vision (cv)."
   }
 ]
