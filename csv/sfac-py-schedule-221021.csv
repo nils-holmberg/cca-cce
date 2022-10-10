@@ -8,6 +8,6 @@
 	"5.2.3"	"image class"	"first convolutional neural networks (cnn)"
 	"break"		
 "15-16"	"5.3.1"	"object recognition"	"multi-class image classification using pytorch, tensorflow"
-	"5.3.2"	"localization"	"localize object bounding boxes"
-	"5.3.3"	"masking"	"find object contours in image"
+	"5.3.2"	"localization"	"localize object bounding boxes, find object contours "
+	"5.3.3"	"image captioning"	"summarize image content and actions as text description"
 "16-17"	"break"		

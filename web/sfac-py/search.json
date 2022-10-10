@@ -165,7 +165,7 @@
     "href": "schedule.html#day-5-221021",
     "title": "workshop schedule",
     "section": "day 5, 221021",
-    "text": "day 5, 221021\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 6: Some nice table caption.\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n5.1.1\ngraphics\nread images\n\n\n\n5.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n5.1.3\nrender images\nmanipulate images, testing the opencv library\n\n\n\nbreak\n\n\n\n\n14-15\n5.2.1\nimage prepocessing\nusing opencv to normalize image data\n\n\n\n5.2.2\nocr classification\ntesting deep learning using the mnist dataset (mlp)\n\n\n\n5.2.3\nimage class\nfirst convolutional neural networks (cnn)\n\n\n\nbreak\n\n\n\n\n15-16\n5.3.1\nobject recognition\nmulti-class image classification using pytorch, tensorflow\n\n\n\n5.3.2\nlocalization\nlocalize object bounding boxes\n\n\n\n5.3.3\nmasking\nfind object contours in image\n\n\n16-17\nbreak"
+    "text": "day 5, 221021\nPython is a programming language that has gained popularity in all types of data science.\n\n\n\n\nTable 6: Some nice table caption.\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n5.1.1\ngraphics\nread images\n\n\n\n5.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n5.1.3\nrender images\nmanipulate images, testing the opencv library\n\n\n\nbreak\n\n\n\n\n14-15\n5.2.1\nimage prepocessing\nusing opencv to normalize image data\n\n\n\n5.2.2\nocr classification\ntesting deep learning using the mnist dataset (mlp)\n\n\n\n5.2.3\nimage class\nfirst convolutional neural networks (cnn)\n\n\n\nbreak\n\n\n\n\n15-16\n5.3.1\nobject recognition\nmulti-class image classification using pytorch, tensorflow\n\n\n\n5.3.2\nlocalization\nlocalize object bounding boxes, find object contours\n\n\n\n5.3.3\nimage captioning\nsummarize image content and actions as text description\n\n\n16-17\nbreak"
   },
   {
     "objectID": "inst-221021-cv-img.html",
@@ -178,29 +178,29 @@
     "objectID": "inst-221021-cv-img.html#working-with-images",
     "href": "inst-221021-cv-img.html#working-with-images",
     "title": "day 5: image object recognition",
-    "section": "working with images",
-    "text": "working with images\nImage data is highly structured compared to text. An image always contains a specific number of rows and columns (pixel dimensions), and each cell (pixel) contains three normalized values between 0 and 255 (RGB color).\n\n\n\n\nTable 1: workshop section 5.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n5.1.1\ngraphics\nread images\n\n\n\n5.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n5.1.3\nrender images\nmanipulate images, testing the opencv library\n\n\n\nbreak"
+    "section": "1 working with images",
+    "text": "1 working with images\nImage data is highly structured compared to text. An image always contains a specific number of rows and columns (pixel dimensions), and each cell (pixel) contains three normalized values between 0 and 255 (RGB color).\n\n\n\n\nTable 1: workshop section 5.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n5.1.1\ngraphics\nread images\n\n\n\n5.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n5.1.3\nrender images\nmanipulate images, testing the opencv library\n\n\n\nbreak\n\n\n\n\n\n\n\n\n\n511.ipynb\n512.ipynb\n513.ipynb"
   },
   {
     "objectID": "inst-221021-cv-img.html#image-classification",
     "href": "inst-221021-cv-img.html#image-classification",
     "title": "day 5: image object recognition",
-    "section": "image classification",
-    "text": "image classification\n\n\n\n\nTable 2: workshop section 5.2\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n5.2.1\nimage prepocessing\nusing opencv to normalize image data\n\n\n\n5.2.2\nocr classification\ntesting deep learning using the mnist dataset (mlp)\n\n\n\n5.2.3\nimage class\nfirst convolutional neural networks (cnn)\n\n\n\nbreak"
+    "section": "2 image classification",
+    "text": "2 image classification\n\n\n\n\nTable 2: workshop section 5.2\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n5.2.1\nimage prepocessing\nusing opencv to normalize image data\n\n\n\n5.2.2\nocr classification\ntesting deep learning using the mnist dataset (mlp)\n\n\n\n5.2.3\nimage class\nfirst convolutional neural networks (cnn)\n\n\n\nbreak\n\n\n\n\n\n\n\n\n\n521.ipynb\n522.ipynb\n523.ipynb"
   },
   {
     "objectID": "inst-221021-cv-img.html#object-recognition",
     "href": "inst-221021-cv-img.html#object-recognition",
     "title": "day 5: image object recognition",
-    "section": "object recognition",
-    "text": "object recognition\n\n\n\n\nTable 3: workshop section 5.3\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n15-16\n5.3.1\nobject recognition\nmulti-class image classification using pytorch, tensorflow\n\n\n\n5.3.2\nlocalization\nlocalize object bounding boxes\n\n\n\n5.3.3\nmasking\nfind object contours in image\n\n\n16-17\nbreak"
+    "section": "3 object recognition",
+    "text": "3 object recognition\n\n\n\n\nTable 3: workshop section 5.3\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n15-16\n5.3.1\nobject recognition\nmulti-class image classification using pytorch, tensorflow\n\n\n\n5.3.2\nlocalization\nlocalize object bounding boxes, find object contours\n\n\n\n5.3.3\nimage captioning\nsummarize image content and actions as text description\n\n\n16-17\nbreak\n\n\n\n\n\n\n\n\n\n531.ipynb\n532.ipynb\n533.ipynb"
   },
   {
     "objectID": "inst-221021-cv-img.html#some-headline",
     "href": "inst-221021-cv-img.html#some-headline",
     "title": "day 5: image object recognition",
-    "section": "some headline",
-    "text": "some headline"
+    "section": "4 some headline",
+    "text": "4 some headline"
   },
   {
     "objectID": "inst-221019-nlp-dc.html#texts-and-nlp",
