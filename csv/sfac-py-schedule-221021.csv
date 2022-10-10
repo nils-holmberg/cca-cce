@@ -3,7 +3,7 @@
 	"5.1.2"	"python syntax"	"practice data structures, conditional statements, flow control"
 	"5.1.3"	"render images"	"manipulate images, testing the opencv library"
 	"break"		
-"14-15"	"5.2.1"	"image prepocessing"	"using opencv to normalize image data"
+"14-15"	"5.2.1"	"image preprocessing"	"using opencv to normalize image data"
 	"5.2.2"	"ocr classification"	"testing deep learning using the mnist dataset (mlp)"
 	"5.2.3"	"image class"	"first convolutional neural networks (cnn)"
 	"break"		
