@@ -256,7 +256,7 @@
     "href": "inst-221018-visual.html#graphics-and-images",
     "title": "day 2: data visualization",
     "section": "1 graphics and images",
-    "text": "1 graphics and images\n\n211.ipynb\n212.ipynb\n213.ipynb\n\n\n\n\n\nTable 1: workshop section 2.1.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n2.1.1\ngraphics\nunderstand python for data visualization, matplotlib\n\n\n\n2.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n2.1.3\nmodel plot\nplot linear regression model using matplotlib\n\n\n\nbreak"
+    "text": "1 graphics and images\nThe main focus on day 2 of the workshop is data visualization. But we will start off by continuing to work with structured tabular data that typically underlies most visualizations. On the first session we will work on a notbook (211.ipynb) introducing the classical python plotting library called matplotlib (https://matplotlib.org/).\n\n211.ipynb\n212.ipynb\n213.ipynb\n\n\n\n\n\nTable 1: workshop section 2.1.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n2.1.1\ngraphics\nunderstand python for data visualization, matplotlib\n\n\n\n2.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n2.1.3\nmodel plot\nplot linear regression model using matplotlib\n\n\n\nbreak"
   },
   {
     "objectID": "inst-221018-visual.html#basic-static-plots",
