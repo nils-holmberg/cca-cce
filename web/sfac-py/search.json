@@ -263,7 +263,7 @@
     "href": "inst-221018-visual.html#basic-static-plots",
     "title": "day 2: data visualization",
     "section": "2 basic static plots",
-    "text": "2 basic static plots\nWhile the matplotlib library is very powerful it is not considered userfriendly.\n\n221.ipynb\n222.ipynb\n223.ipynb\n\n\n\n\n\nTable 2: workshop section 2.2.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n2.2.1\nplotting\nbasic static plots with matplotlib and seaborn\n\n\n\n2.2.2\nbar charts\n\n\n\n\n2.2.3\nscatter plots\ntime series\n\n\n\nbreak"
+    "text": "2 basic static plots\nWhile the matplotlib library is very powerful it also quite low-level, and so it is not considered the most userfriendly. Enter the seaborn package! Built on top of matplotlib\n\n221.ipynb\n222.ipynb\n223.ipynb\n\n\n\n\n\nTable 2: workshop section 2.2.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n2.2.1\nplotting\nbasic static plots with matplotlib and seaborn\n\n\n\n2.2.2\nbar charts\n\n\n\n\n2.2.3\nscatter plots\ntime series\n\n\n\nbreak"
   },
   {
     "objectID": "inst-221018-visual.html#interactive-plots",
@@ -291,7 +291,7 @@
     "href": "topics.html#data-analysis-and-visualizations",
     "title": "workshop topics",
     "section": "1 data analysis and visualizations",
-    "text": "1 data analysis and visualizations\nwe will read, analyze and process some generic tabular datasets (McKinney, 2012; VanderPlas, 2016). Some data analysis.\n\n\n\nFigure 1: palmer penguins\n\n\nReference to this dataset is Horst et al. (2020).\nOn day 2, we will continue performing basic data summarization using descriptive statistics, but now we will put more emphasis on how to use quantitative data to produce compelling and intuitive visualizations. Using the matplotlib and seaborn packages, we will learn how to aggregate survey data and present them as scatter plots, bar charts, and time series (Embarak et al., 2018). If there is time, we will also use the scikit-learn package to perform multiple regression analyses in Python. data visualization"
+    "text": "1 data analysis and visualizations\nwe will read, analyze and process some generic tabular datasets (McKinney, 2012; VanderPlas, 2016). Some data analysis. Reference to tidy data\n\n\n\nFigure 1: palmer penguins\n\n\nReference to this dataset is Horst et al. (2020).\nOn day 2, we will continue performing basic data summarization using descriptive statistics, but now we will put more emphasis on how to use quantitative data to produce compelling and intuitive visualizations. Using the matplotlib and seaborn packages, we will learn how to aggregate survey data and present them as scatter plots, bar charts, and time series (Embarak et al., 2018). If there is time, we will also use the scikit-learn package to perform multiple regression analyses in Python. data visualization"
   },
   {
     "objectID": "topics.html#computational-content-analysis",
