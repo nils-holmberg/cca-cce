@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Introduction to Python",
     "section": "",
-    "text": "Figure 1: Official logo of the Python programming language\n\n\nAnother principle that has guided the design of this course is that participants should gain an understanding of how Python can be used to accomplish fairly common research tasks within the social sciences more effectively and more transparently. Such applications of Python include collecting and analyzing survey data, performing content analyses on textual and visual material, and using charts to visualize results.\nHere you can find the workshop syllabus with more detailed info about schedule and locations.\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Figure 1: Official logo of the Python programming language\n\n\nAnother principle that has guided the design of this course is that participants should gain an understanding of how Python can be used to accomplish fairly common research tasks within the social sciences more effectively and more transparently. Such applications of Python include collecting and analyzing survey data, performing content analyses on textual and visual material, and using charts to visualize results (workshop syllabus).\n\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
     "objectID": "inst-221017-tables.html",
