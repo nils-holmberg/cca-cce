@@ -221,21 +221,21 @@
     "href": "inst-221019-nlp-dc.html#texts-and-nlp",
     "title": "day 3: text data analysis",
     "section": "1 texts and nlp",
-    "text": "1 texts and nlp\nIf images (and some tables) represent highly structured data, texts can often be found in the other extreme of the spectrum, consisting of highly unstructured data. This poses some unique challenges with text analysis, and the solutions often deals with some aspect of making texts more structured. … in the first part of this session, we will simply load a collection of texts\n\n\n\n\nTable 1: workshop section 3.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n3.1.1\ncreate, read text\npython support for representing texts as data objects\n\n\n\n3.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n3.1.3\nnltk, spacy\nunderstand python for nlp, natural language toolkit, spacy\n\n\n\nbreak\n\n\n\n\n\n\n\n\n\n311.ipynb\n312.ipynb\n313.ipynb\n\nInstall and access NLTK and spaCy packages. Read"
+    "text": "1 texts and nlp\nIf images (and some tables) represent highly structured data, naturally occurring texts can often be found in the other extreme of the spectrum, consisting of highly unstructured information. This poses some unique challenges with text analysis, and the solutions often deals with some aspect of making texts more structured. In the first part of this session, we will python packages needed for natural language processing 311.ipynb.\n\n\n\n\nTable 1: workshop section 3.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n3.1.1\ncreate, read text\npython support for representing texts as data objects\n\n\n\n3.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n3.1.3\nnltk, spacy\nunderstand python for nlp, natural language toolkit, spacy\n\n\n\nbreak\n\n\n\n\n\n\n\n\nNext we will continue to train on basic python syntax, and more specifically on how to create functions. Functions can be viewed as reusable pieces of code, and are very useful while also saving time 312.ipynb. At the end of the first part of this NLP workshop session we will practice writing up a function that will tokenize a sententce 313.ipynb."
   },
   {
     "objectID": "inst-221019-nlp-dc.html#structure-text",
     "href": "inst-221019-nlp-dc.html#structure-text",
     "title": "day 3: text data analysis",
     "section": "2 structure text",
-    "text": "2 structure text\n\n321.ipynb\n322.ipynb\n323.ipynb\n\n\n\n\n\nTable 2: workshop section 3.2\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n3.2.1\ntokenization\ntext data cleaning, analyzing sentences and words\n\n\n\n3.2.2\nnormalization\nlexicon normalization, stemming and lemmatization\n\n\n\n3.2.3\npart of speech\nsyntactic function of text\n\n\n\nbreak"
+    "text": "2 structure text\nIn the next part of the workshop we will focus more on the basic NLTK functions for cleaning and structuring natural language text 321.ipynb.\n\n\n\n\nTable 2: workshop section 3.2\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n3.2.1\ntokenization\ntext data cleaning, analyzing sentences and words\n\n\n\n3.2.2\nnormalization\nlexicon normalization, stemming and lemmatization\n\n\n\n3.2.3\npart of speech\nsyntactic function of text\n\n\n\nbreak\n\n\n\n\n\n\n\n\nLater on, we will continue to explore other parts of the NLTK package, e.g. pre-built text corpora that are available out of the box 322.ipynb. Then we will examine how a slightly more modern NLP package called spaCy deals with similar tasks 323.ipynb."
   },
   {
-    "objectID": "inst-221019-nlp-dc.html#text-collections",
-    "href": "inst-221019-nlp-dc.html#text-collections",
+    "objectID": "inst-221019-nlp-dc.html#text-features",
+    "href": "inst-221019-nlp-dc.html#text-features",
     "title": "day 3: text data analysis",
-    "section": "3 text collections",
-    "text": "3 text collections\n\n331.ipynb\n332.ipynb\n333.ipynb\n\n\n\n\n\nTable 3: workshop section 3.3\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n15-16\n3.3.1\ntext corpus\nmanage large collections of text documents\n\n\n\n3.3.2\nbag of words\nmore on text transformation to useful data structures\n\n\n\n3.3.3\ndoc term matrix\ntransformation of texts into useful data structures\n\n\n16-17\nbreak"
+    "section": "3 text features",
+    "text": "3 text features\n\n331.ipynb\n332.ipynb\n333.ipynb\n\n\n\n\n\nTable 3: workshop section 3.3\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n15-16\n3.3.1\ntext corpus\nmanage large collections of text documents\n\n\n\n3.3.2\nbag of words\nmore on text transformation to useful data structures\n\n\n\n3.3.3\ndoc term matrix\ntransformation of texts into useful data structures\n\n\n16-17\nbreak"
   },
   {
     "objectID": "inst-221019-nlp-dc.html#some-headline",
