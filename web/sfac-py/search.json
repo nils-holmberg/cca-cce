@@ -91,18 +91,18 @@
     "text": "2 headline 2"
   },
   {
-    "objectID": "inst-221020-nlp-tc.html#topic-modelling",
-    "href": "inst-221020-nlp-tc.html#topic-modelling",
-    "title": "day 4: text classification",
-    "section": "1 topic modelling",
-    "text": "1 topic modelling\n\n411.ipynb\n412.ipynb\n413.ipynb\n\n\n\n\n\nTable 1: workshop section 4.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n4.1.1\ntf-idf analysis\ndata structures, text frequency, inverse document frequecy\n\n\n\n4.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n4.1.3\nword vectors\ntime series\n\n\n\nbreak"
-  },
-  {
     "objectID": "inst-221020-nlp-tc.html#word-vectors",
     "href": "inst-221020-nlp-tc.html#word-vectors",
     "title": "day 4: text classification",
-    "section": "2 word vectors",
-    "text": "2 word vectors\n\n421.ipynb\n422.ipynb\n423.ipynb\n\n\n\n\n\nTable 2: workshop section 4.2\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n4.2.1\nnamed entities\ntext named entity recognition (ner) using spacy\n\n\n\n4.2.2\ntext similarity\n\n\n\n\n4.2.3\ntopic modelling\ndocument clusters, applying unsupervised learning to texts\n\n\n\nbreak"
+    "section": "1 word vectors",
+    "text": "1 word vectors\n\n411.ipynb\n412.ipynb\n413.ipynb\n\n\n\n\n\nTable 1: workshop section 4.1\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n13-14\n4.1.1\ntf-idf analysis\ndata structures, text frequency, inverse document frequecy\n\n\n\n4.1.2\npython syntax\npractice data structures, conditional statements, flow control\n\n\n\n4.1.3\nword vectors\ntime series\n\n\n\nbreak"
+  },
+  {
+    "objectID": "inst-221020-nlp-tc.html#topic-modelling",
+    "href": "inst-221020-nlp-tc.html#topic-modelling",
+    "title": "day 4: text classification",
+    "section": "2 topic modelling",
+    "text": "2 topic modelling\n\n421.ipynb\n422.ipynb\n423.ipynb\n\n\n\n\n\nTable 2: workshop section 4.2\n\n\n\n\n\n\n\n\ntime\nsection\nconcepts\noutcomes\n\n\n\n\n14-15\n4.2.1\nnamed entities\ntext named entity recognition (ner) using spacy\n\n\n\n4.2.2\ntext similarity\n\n\n\n\n4.2.3\ntopic modelling\ndocument clusters, applying unsupervised learning to texts\n\n\n\nbreak"
   },
   {
     "objectID": "inst-221020-nlp-tc.html#text-classification",
