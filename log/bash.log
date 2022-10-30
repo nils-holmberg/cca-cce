@@ -1,3 +1,8 @@
+### ubuntu 20.10 upgrade (221030)
+# website_compile sfac-py failed.. 
+R> install.packages("stringi", lib="~/lib/r-cran")
+
+
 ### qmd work (221009)
 # whats a nice number of cells per ipynb exercise ?
 for i in {1..5}; do for j in {1..3}; do for k in {1..3}; do echo "- [$i$j$k.ipynb](../../res/jnb/$i$j$k.ipynb)"; > res/jnb/$i$j$k.ipynb; done; done; echo some; done
