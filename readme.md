@@ -1,10 +1,16 @@
 # computational content analysis
-some intro
 
-[intro to python website](https://nils-holmberg.github.io/cca-cce/web/sfac-py/)
+- natural language processing (nlp)
+- computer vision (cv)
+- data visualization
+- [intro to python website](https://nils-holmberg.github.io/cca-cce/web/sfac-py/)
 
 # cognitive communication effects
-some intro
+
+- visual attention (eye-tracking)
+- website interaction (mouse tracking)
+- attitudes, knowledge, behavior
+- experimental designs, surveys
 
 
 
