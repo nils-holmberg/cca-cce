@@ -1,0 +1,196 @@
+---
+execute:
+  echo: true
+format:
+  revealjs: 
+    theme: dark
+    self-contained: true
+    slide-number: true
+    preview-links: auto
+    logo: images/logo.png
+    css: styles.css
+    footer: <https://canvas.education.lu.se/courses/17425>
+title: "Natural language processing 1"
+subtitle: "&nbsp;<br>SIMM71: Computational content analysis for the social sciences"
+author: Nils Holmberg ([nils.holmberg@isk.lu.se](mailto:nils.holmberg@isk.lu.se))
+---
+
+## Programming languages versus natural languages 
+## Why should I learn NLP? 
+## Current applications of NLP 
+## Understanding Python with NLP 
+## Important Python libraries 
+## Web scraping libraries and methodology 
+## Overview of Jupyter Notebook 
+## Lexicons 
+## Phonemes, graphemes, and morphemes 
+## Tokenization 
+## Exploring Tokenization
+
+@author: Aman Kedia
+
+```{python}
+sentence = "The capital of China is Beijing"
+sentence.split()
+```
+
+```{python}
+sentence = "China's capital is Beijing"
+sentence.split()
+```
+
+```{python}
+sentence = "Beijing is where we'll go"
+sentence.split()
+```
+
+```{python}
+sentence = "I'm going to travel to Beijing"
+sentence.split()
+```
+
+```{python}
+sentence = "Most of the times umm I travel"
+sentence.split()
+```
+
+```{python}
+sentence = "Let's travel to Hong Kong from Beijing"
+sentence.split()
+```
+
+```{python}
+sentence = "A friend is pursuing his M.S from Beijing"
+sentence.split()
+```
+
+```{python}
+sentence = "Beijing is a cool place!!! :-P <3 #Awesome"
+sentence.split()
+```
+
+## Regexp Tokenizer
+
+```{python}
+from nltk.tokenize import RegexpTokenizer
+s = "A Rolex watch costs in the range of $3000.0 - $8000.0 in USA."
+tokenizer = RegexpTokenizer('\w+|\$[\d\.]+|\S+')
+tokenizer.tokenize(s)
+```
+
+## Blankline Tokenizer
+
+```{python}
+from nltk.tokenize import BlanklineTokenizer
+s = "A Rolex watch costs in the range of $3000.0 - $8000.0 in USA.\n\n I want a book as well"
+tokenizer = BlanklineTokenizer()
+tokenizer.tokenize(s)
+```
+
+## WordPunct Tokenizer
+
+```{python}
+from nltk.tokenize import WordPunctTokenizer
+s = "A Rolex watch costs in the range of $3000.0 - $8000.0 in USA.\n I want a book as well"
+tokenizer = WordPunctTokenizer()
+tokenizer.tokenize(s)
+```
+
+## TreebankWord Tokenizer
+
+```{python}
+from nltk.tokenize import TreebankWordTokenizer
+s = "I'm going to buy a Rolex watch which doesn't cost more than $3000.0"
+tokenizer = TreebankWordTokenizer()
+tokenizer.tokenize(s)
+```
+
+## Tweet Tokenizer
+
+```{python}
+from nltk.tokenize import TweetTokenizer
+s = "@amankedia I'm going to buy a Rolexxxxxxxx watch!!! :-D #happiness #rolex <3"
+tokenizer = TweetTokenizer()
+tokenizer.tokenize(s)
+```
+
+```{python}
+from nltk.tokenize import TweetTokenizer
+s = "@amankedia I'm going to buy a Rolexxxxxxxx watch!!! :-D #happiness #rolex <3"
+tokenizer = TweetTokenizer(strip_handles=True, reduce_len=True)
+tokenizer.tokenize(s)
+```
+
+## Understanding word normalization 
+## Understanding vectors and matrices 
+## Exploring the Bag-of-Words architecture 
+## TF-IDF vectors 
+## Distance/similarity calculation between document vectors 
+## One-hot vectorization 
+## Building a basic chatbot 
+
+
+## Varför göra praktik? {.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: incremental
+- relatera sina akademiska färdigheter till konkreta arbetsuppgifter inom kommunikationsyrket
+- tillämpa teorier inom strategisk kommunikation i praktiken
+- utveckla erfarenheter att visa upp i en professionell portfölj inför framtida arbetssökande
+- reflektera över styrkor och svagheter i kompetens
+- identifiera behov av ytterligare kunskap i relation till förekommande arbetsuppgifter
+- etablera kontakter med potentiella arbetsgivare
+:::
+
+:::
+
+::: {.column width="40%"}
+![](/tmp/avatar-256.png){width="100%"}
+:::
+
+::::
+
+## Tänk på! {.smaller}
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+::: incremental
+- inte enbart operativa arbetsuppgifter – det är viktigt med ett strategiskt perspektiv också
+- börja i god tid med litteratur och uppgifter 
+- det är en akademisk kurs – inte arbete (du ska inte ersätta en anställd på arbetsplatsen)
+- ta upp eventuella problem på praktikplatsen i tid
+- hör av er till mig vid frågor och funderingar – jag finns tillgänglig på mejl eller zoom (varje vecka)!
+:::
+
+:::
+
+::: {.column width="40%"}
+![](/tmp/avatar-256.png){width="100%"}
+:::
+
+::::
+
+## Tack!
+
+:::: {.columns}
+
+::: {.column width="30%"}
+:::
+
+::: {.column width="40%"}
+![](images/logo-col.png){width="100%"}
+:::
+
+::: {.column width="30%"}
+:::
+
+::::
+
+
+
+
